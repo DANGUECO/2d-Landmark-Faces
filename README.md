@@ -1,4 +1,4 @@
-# 2d-Landmark-Faces
+# 2d-Landmark-Faces - feed the input into a classifier to predict the gender of each face. 
 
 The `landmark_faces.txt` file has the locations in 2D of 68 landmark positions on 9780 faces
 This assignment provided by the victoria university of wellington gave us a task to use PCA to transform these points, and feed the input into a classifier to predict the gender of each face. 
