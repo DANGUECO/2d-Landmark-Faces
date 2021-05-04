@@ -5,3 +5,5 @@ This assignment provided by the victoria university of wellington gave us a task
 
 This involved classifying into 2 discrete categories. 0 - Male or 1 - Female.
 The clasification algorithm used was Logsitic Regression.
+
+Note: load python file if .ipynb doesnt work.
